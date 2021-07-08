@@ -1,0 +1,19 @@
+baseURL = "https://iceglitter632.github.io/AboutMe/"
+languageCode = "en-us"
+title = "鬼之叡"
+theme="hugo-theme-cleanwhite"
+
+[params]
+header_image = "uploads/background.jpg"
+
+sidebar_about_description = "Software Developer, Open Source Enthusiast and Life Adventurer"
+
+[params.social]
+email = "111012912jerry@gmail.com"
+facebook = "https://www.facebook.com/jerry.wu.33234/"
+instagram = "https://www.instagram.com/requiems_jubilation/?hl=en"
+linkedin = "https://www.linkedin.com/in/tsung-wu-2a154a20b/"
+github = "https://github.com/Iceglitter632"
+
+[[params.addtional_menus]]
+title = "POSTS"

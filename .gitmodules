@@ -1,0 +1,4 @@
+[submodule "jerry/public"]
+	path = jerry/public
+	url = https://github.com/Iceglitter632/jerry.github.io.git
+	branch = main
