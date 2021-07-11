@@ -1,12 +1,22 @@
 baseURL = "https://iceglitter632.github.io/AboutMe/"
 languageCode = "en-us"
-title = "鬼之叡"
+title = "鬼之叡叡"
 theme="hugo-theme-cleanwhite"
+paginate = 5
 
 [params]
 header_image = "uploads/background.jpg"
 
-sidebar_about_description = "Software Developer, Open Source Enthusiast and Life Adventurer"
+# post config
+showtoc = false
+
+# sidebar enabled
+sidebar_about_description = "Student of NYCU major in Information Management and Finance."
+sidebar_avatar = "uploads/me3.jpg"
+
+friends = true
+bookmarks = false   
+about_me = true
 
 [params.social]
 email = "111012912jerry@gmail.com"
@@ -16,4 +26,10 @@ linkedin = "https://www.linkedin.com/in/tsung-wu-2a154a20b/"
 github = "https://github.com/Iceglitter632"
 
 [[params.addtional_menus]]
+title = "ABOUT"
+href = "/about/"
+
+[[params.addtional_menus]]
 title = "POSTS"
+href = "/post/"
+
