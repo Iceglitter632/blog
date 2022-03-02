@@ -2,7 +2,7 @@ baseURL = "https://iceglitter632.github.io/AboutMe/"
 languageCode = "en-us"
 title = "鬼之叡叡"
 theme="hugo-theme-cleanwhite"
-paginate = 5
+paginate = 10
 
 [params]
 header_image = "uploads/background.jpg"
