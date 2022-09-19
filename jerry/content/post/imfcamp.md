@@ -3,10 +3,8 @@ title: "大三(part 2)"
 subtitle: "敗人品之資財營篇"
 description: "活動屆柯南來到最高峰"
 date: 2021-10-02
-author:      "叡"
+author:      "自以為末代總召的叡"
 image: ""
-tags: []
-categories: []
 ---
 
 # 大三事 PART II
